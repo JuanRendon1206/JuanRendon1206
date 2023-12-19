@@ -1,5 +1,3 @@
 - 👋 Hola, me llamo Juan Rendon
-- Esyoy estudiando diferentes lenguajes de programacion
-- 🌱 Lea y estudio mucho sobre python, tambien se un poco de html y css pronto javascript
-- 💞️ Me gustaria colaborar en algun proyecto relacionado con python o creacion de paginas web, soy un buen tester y persevero hasta lograr el resultado que desea sin importar la adversidad
+- Estoy estudiando diferentes lenguajes de programacion
 - 📫 Me podrian contactar por cualquiera de los siguientes correos: juanjoseflorezrendon124@gmail.com o juanrendon1206@gmail.com
